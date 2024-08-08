@@ -1,6 +1,6 @@
 import React from "react";
 import btcSrc from "../assets/btc.png";
-import { motion } from 'framer-motion/dist/framer-motion'
+import { motion } from "framer-motion"
 
 const Home = () => {
   return (
